@@ -5,7 +5,7 @@ title: OWASP Liverpool
 tags: Liverpool
 level: 0
 region: Europe
-meetup-group: OWASP-Liverpool
+meetup-group: OWASP-Liverpool-Chapter
 country: United Kingdom
 postal-code:
 ---
@@ -13,7 +13,7 @@ postal-code:
 
 OWASP Liverpool
 -------------
-Welcome to the Liverpool chapter homepage. The chapter board is <a href="mailto:matthew.hatton@owasp.org">Matthew Hatton</a>. Follow the Liverpool chapter news on [Twitter](https://twitter.com/liverpoolOwasp) | [Meetup.com](https://meetup.com/OWASP-Liverpool)
+Welcome to the Liverpool chapter homepage. The chapter board is <a href="mailto:matthew.hatton@owasp.org">Matthew Hatton</a>. Follow the Liverpool chapter news on [Twitter](https://twitter.com/liverpoolOwasp) | [Meetup.com](https://www.meetup.com/OWASP-Liverpool-Chapter)
 
 Speaking at OWASP Liverpool Chapter Events
 ---------------------------------------
@@ -26,6 +26,7 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Next Meeting/Event(s)
 ---------------------
+
 {% include chapter_events.html group=page.meetup-group %}
 
 OWASP Liverpool Chapter meetings are posted on our MeetUp Page:
