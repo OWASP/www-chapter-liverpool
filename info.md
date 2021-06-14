@@ -2,5 +2,5 @@
 
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Liverpool)
+* [Meetup](https://www.meetup.com/OWASP-Liverpool-Chapter)
 
